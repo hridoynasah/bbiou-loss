@@ -4,3 +4,5 @@ __pycache__/
 data/images/
 data/masks/
 checkpoints/*.pth  # Unless you specifically want to commit weights
+*
+!.gitignore
